@@ -3,7 +3,7 @@ const hello = ()=>{
 }
 
 const ahello = (name)=>{
-    console.log("Hello " + name)
+    console.log( "Hello  " + name)
 }
 
 module.exports = {hello, ahello};// same as below line
