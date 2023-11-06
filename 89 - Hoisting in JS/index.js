@@ -1,6 +1,6 @@
 let a;
 // Following two lines will run successfully due to JavaScript hoisting
-console.log(b)
+console.log(a)
 greet()
 var greet = function() {
   console.log("Good morning")
