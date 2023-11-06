@@ -7,4 +7,4 @@ var greet = function() {
 }
 
 var b = 9; // Declaration hoisted to the top but initialization is not
-console.log(a)
+console.log(b)
