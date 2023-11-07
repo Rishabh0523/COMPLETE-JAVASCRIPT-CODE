@@ -4,7 +4,7 @@ const sayHello = name => {
   }
   
   const x = {
-    name: "Harry",
+    name: "Rishabh",
     role: "Js Developer",
     exp: 30,
     show: function()  {
