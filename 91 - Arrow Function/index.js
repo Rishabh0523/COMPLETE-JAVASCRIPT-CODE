@@ -7,7 +7,7 @@ const sayHello = name => {
     name: "Harry",
     role: "Js Developer",
     exp: 30,
-    show: function() {
+    show: function()  {
       // let that = this
       // console.log(this)
       setTimeout(() => {
