@@ -15,6 +15,6 @@ const sayHello = name => {
       }, 2000)
     }
   }
-  sayHello("Harry", "Good Afternoon")
+  sayHello("Rishabh", "Good Afternoon")
   // console.log(x.name, x.exp)
   // x.show()
