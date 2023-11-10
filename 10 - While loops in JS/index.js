@@ -10,7 +10,7 @@ while(i<n){
 }
 */
 // while loop
-let n = prompt("Enter the value of n")
+let n = prompt("Enter the value of the number n")
 n = Number.parseInt(n)
 
 let i = 10;
