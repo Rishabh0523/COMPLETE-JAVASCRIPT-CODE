@@ -3,7 +3,7 @@ a = Number.parseInt(a); // Converting the string to a number
 if(a<0){
   alert("This is an invalid age");
 }
-else if(a<9){
+else if(a<10){
   alert("You are a kid and you cannot even think of driving");
 }
 else if(a<18 && a>=9){
