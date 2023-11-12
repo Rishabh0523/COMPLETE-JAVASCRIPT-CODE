@@ -3,7 +3,7 @@ setTimeout(()=>{
     }, 1000)
     
     try{
-            setTimeout(()=>{ 
+            setTimeout(()=> { 
                     console.log(rahul)  
             }, 100)
     }
