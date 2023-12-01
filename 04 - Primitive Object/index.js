@@ -11,8 +11,8 @@ console.log(typeof c)
 
 // Non Primitive Data Type - Objects in Js
 const item = {
-  "Harry": true,
-  "Shubh": false,
+  "Rishabh": true,
+  "Nishu": false,
   "Lovish": 67,
   "Rohan": undefined
 }
