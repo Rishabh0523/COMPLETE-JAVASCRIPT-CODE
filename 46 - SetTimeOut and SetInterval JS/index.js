@@ -18,4 +18,4 @@ setTimeout(sum, 1000, 1, 2, 7)
 // if ("n" == b) {
 //   clearTimeout(a)
 // }
-// console.log(a)
+// console.log(a);
