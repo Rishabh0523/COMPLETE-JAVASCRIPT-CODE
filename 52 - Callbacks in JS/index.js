@@ -14,6 +14,7 @@
 
 // Callbacks
 function loadScript(src, callback) {
+    
     var script = document.createElement("script");
     script.src = src;
     script.onload = function() {
