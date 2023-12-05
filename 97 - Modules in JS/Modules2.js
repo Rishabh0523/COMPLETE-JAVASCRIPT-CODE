@@ -1,6 +1,6 @@
 // ES6 Modules
 export const hello = ()=>{
-    console.log("Hello Harry")
+    console.log("Hello RISHABH")
 }
 
 export const ahello = (name)=>{
@@ -8,7 +8,7 @@ export const ahello = (name)=>{
 }
 
 const harry = ()=>{
-    console.log("Hello " + "Harry")
+    console.log("Hello " + "RISHABH")
 }
 
 export default harry;
